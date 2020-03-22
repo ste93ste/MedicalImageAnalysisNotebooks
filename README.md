@@ -1,2 +1,2 @@
-# MedicalImageAnalysisNotebooks
-Collections of medical image analysis jupyter notebooks
+# NotebookBlog
+collection of python notebooks regarding medical image analysis
